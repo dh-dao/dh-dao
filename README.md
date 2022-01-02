@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 🔭 I’m currently working on a BOT that monitor and notify me about stock price and its indicators. Another project that i am doing is learning embedded programming on a STM32F3-Discovery Board, which has 2 MEMS and a few LEDs.
+
 🌱 I’m currently learning a lot of things, such as design pattern for embedded software, CI/CD and Unit-Tests in Embedded Software Development. Furthermore I want to learn in the future more about Cpp, Machine learning in Embedded (TinyML), Image Processing and so on. 
+
 📫 How to reach me: hieu.duc.dao@hotmail.com
 
 <!--
